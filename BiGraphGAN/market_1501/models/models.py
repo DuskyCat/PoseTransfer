@@ -1,5 +1,5 @@
 
-def create_model(opt):
+def create_model_mk(opt):
     model = None
     print(opt.model)
 
